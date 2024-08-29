@@ -2,14 +2,8 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15684236)
 # intro-assignment
 
-## Instructions
-1. Fork the assignment from GitHub classroom.
-2. Open Visual Studio (VS) Code on the computer.
-3. On the bottom left, click the person icon, and login to your GitHub account.
-4. Clone the correct repository.
-5. Make changes to any files.
-6. Commit your files with a commit message.
-7. Synchronize your repository.
+## This page is so cool wow
+
 
 ## About Me
 Answer the questions below
