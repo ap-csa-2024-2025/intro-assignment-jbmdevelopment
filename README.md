@@ -6,6 +6,7 @@
 
 
 ## About Me
+[![Test](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 * My name is Jonathan
 * I am 16 years old
 * insert random thing
