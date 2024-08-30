@@ -6,7 +6,7 @@
 
 
 ## About Me
-
 * My name is Jonathan
+* I am 16 years old
 * insert random thing
 * testing changes
